@@ -11,6 +11,7 @@ Title: Doctor Claudius, A True Story
 Author: F. Marion Crawford
 
 Release Date: March 1, 2005 [EBook #15223]
+[Last updated: October 2, 2015]
 
 Language: English
 
@@ -1389,7 +1390,7 @@ as he answered.
 "Really," he said at last, "if you are very desirous of presenting me to
 your friends, of course I--"
 
-"Oh, only if it is agreeable to you, of course. If it it is in any way
+"Oh, only if it is agreeable to you, of course. If it is in any way
 the reverse--" protested the polite Mr. Barker.
 
 "Not that--not exactly disagreeable. Only it is some time since I have
@@ -1551,7 +1552,7 @@ becoming interested.
 "Does that mean anything, or is it only a pretty paradox?" asked the
 lady, observing that Claudius had thrown himself boldly into a crucial
 position. Upon his answer would probably depend her opinion of him as
-being either intelligent or _banal_ It is an easy matter to frame
+being either intelligent or _banal_. It is an easy matter to frame
 paradoxical questions implying a compliment, but it is no light task to
 be obliged to answer them oneself. Claudius was not thinking of
 producing an effect, for the fascination of the dark woman was upon him,
@@ -1711,7 +1712,7 @@ kind of talk after half an hour's acquaintance. There was a thrill of
 feeling in her smooth deep voice when she answered: "If all men thought
 as you think, the world would be a very different place."
 
-"It would he a better place in more ways than one," he replied.
+"It would be a better place in more ways than one," he replied.
 
 "And yet you yourself call it a dream," said Margaret, musing.
 
@@ -2595,7 +2596,7 @@ to think of it."
 
 "Perhaps I ought to go, and it is so kind of you, really, to give me
 such a delightful chance." She had a presentiment that before long she
-would he on her way to join the yacht, though at first sight it seemed
+would be on her way to join the yacht, though at first sight it seemed
 rather improbable, for, as Claudius had guessed, she had a great many
 engagements for visits. If any one had suggested to her that morning
 that she might make a trip to America, she would have said it was quite
@@ -3953,7 +3954,7 @@ frightened.
 "You are not well, Dr. Claudius. Please don't mind me, my brother will
 be back in a moment. Go below and get warm. You really look ill."
 
-"Do I? I do not feel ill at all I am very fond of this kind of weather."
+"Do I? I do not feel ill at all. I am very fond of this kind of weather."
 And he put one arm through the shrouds and prepared for conversation
 under difficulties. Meanwhile the Duke brought out Miss Skeat, who
 rattled inside her tarpaulin, but did not exhibit the slightest
@@ -5292,7 +5293,7 @@ The breeze held well, on the whole, and old Sturleson said they were
 having a wonderful run, which was doubtless an effort on the part of
 nature to atone for the injury she had done. But the days flew by, and
 yet they were not at their voyage's end. At last, as they sat sunning
-themselyes in the fair September weather, Sturleson came to them, his
+themselves in the fair September weather, Sturleson came to them, his
 bright quadrant, with its coloured glasses sticking out in all
 directions, in his hand, and told the Duke he thought that by to-morrow
 afternoon they would sight the Hook. The party were all together, as it
@@ -6352,7 +6353,7 @@ greatly obliged if you would put into my hands such documents as you may
 think proper for the full establishing of your rights."
 
 "Very well," said Claudius. "If you will tell me what evidence you
-require I will procure it immediately." "With that he rose, and lighted
+require I will procure it immediately." With that he rose, and lighted
 a cigarette.
 
 "A properly-attested certificate of your birth would be all-sufficient,"
@@ -7851,7 +7852,7 @@ himself, for he was an honest man, acting very properly according to his
 lights. It was not his fault if Barker deceived him, and if that
 hot-livered Swede was angry.
 
-"Never mind," answered Barker, rather irrelevantly; I will see him
+"Never mind," answered Barker, rather irrelevantly; "I will see him
 before he sails, and tell you what I think about it. He is dead sure to
 give himself away, somehow, before he gets off."
 
@@ -8152,7 +8153,7 @@ instant so--and then--ah, God! they have cast the die at last, for he
 has wound his mighty arms about her, and is passionately kissing the
 marble of her cheek.
 
-"My beloved, my beloved, I love you--with, all my heart, and with all my
+"My beloved, my beloved, I love you--with all my heart, and with all my
 soul, and with all my strength"--but she speaks no word, only her arms
 pass his and hang about his neck, and her dark head lies on his breast;
 and could you but see her eyes, you would see also the fair pearls that
@@ -9221,7 +9222,7 @@ had the culture and refinement belonging to a high development of
 suggested the concomitant horror; and suggested it so vividly that the
 visible definition of the result--the bloodshed, the agony, and the
 death-rattle--would have produced an impression too dreadful to be
-associated with any pleasure to the beholder There was no curiosity to
+associated with any pleasure to the beholder. There was no curiosity to
 behold violent death among a people accustomed to see it often enough in
 the course of their lives, and not yet brutalised into a love of blood
 for its own sake. The Romans presented an example of the latter state;
